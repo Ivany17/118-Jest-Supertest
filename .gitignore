@@ -1,0 +1,6 @@
+.*
+!.gitignore
+/node_modules/
+/public
+/sequelize*.json
+/sandbox.js

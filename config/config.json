@@ -1,0 +1,19 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "fm_sequelize",
+    "host": "localhost",
+    "dialect": "postgres",
+    "migrationStorage": "json",
+    "seederStorage": "json"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "fm_sequelize_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {}
+}
